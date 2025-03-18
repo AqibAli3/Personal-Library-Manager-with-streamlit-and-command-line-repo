@@ -1,4 +1,6 @@
-Personal Library Manager (Streamlit App)
+Deployed at: (https://smart-unit-converter-by-aqib-ali.streamlit.app/)
+
+# Personal Library Manager (Streamlit App)
 Overview
 The Personal Library Manager is an interactive Streamlit web app designed to help users manage their personal book collections effortlessly. This application allows you to add, remove, search, and display books from your library. It integrates with the Google Books API to search for books online and provides advanced features like downloads and customizable CSS styling for an enhanced user experience.
 
@@ -26,7 +28,7 @@ Setup Instructions
 Clone the Repository:
 
 bash
-git clone https://github.com/your-username/personal-library-manager.git
+git clone https://github.comAqibAli3/Personal-Library-Manager-with-streamlit-and-command-line-repo.git
 cd personal-library-manager
 Install Dependencies:
 
