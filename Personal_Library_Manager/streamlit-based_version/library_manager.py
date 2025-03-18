@@ -63,7 +63,7 @@ def search_books_google(query):
     if response.status_code == 200:
         return response.json().get("items", [])
     else:
-        st.error("Double click please.")
+        st.error("Google API isn't fetching data.")
         return []
 
 # Load custom CSS
