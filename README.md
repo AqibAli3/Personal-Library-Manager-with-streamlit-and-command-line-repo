@@ -75,7 +75,7 @@ This repository is divided into two folders:
 ## Google Books API (Streamlit Version Only)
 The Streamlit version integrates with the **Google Books API** to provide online book search functionality. Make sure to add your API key in the `search_books_google` function in `library_manager.py`:
 ```python
-api_key = "your-google-books-api-key"
+api_key = "my-google-books-api-key"
 ```
 
 ---
