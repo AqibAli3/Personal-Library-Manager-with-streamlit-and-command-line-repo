@@ -1,0 +1,51 @@
+Title: To Kill a Mockingbird, Author: Harper Lee, Year: 1960, Genre: Fiction, Read: False
+Title: Pride and Prejudice, Author: Jane Austen, Year: 1813, Genre: Romance, Read: False
+Title: The Great Gatsby, Author: F. Scott Fitzgerald, Year: 1925, Genre: Fiction, Read: False
+Title: Moby-Dick, Author: Herman Melville, Year: 1851, Genre: Adventure, Read: False
+Title: The Catcher in the Rye, Author: J.D. Salinger, Year: 1951, Genre: Fiction, Read: False
+Title: The Lord of the Rings, Author: J.R.R. Tolkien, Year: 1954, Genre: Fantasy, Read: False
+Title: The Hobbit, Author: J.R.R. Tolkien, Year: 1937, Genre: Fantasy, Read: False
+Title: War and Peace, Author: Leo Tolstoy, Year: 1869, Genre: Historical Fiction, Read: False
+Title: The Alchemist, Author: Paulo Coelho, Year: 1988, Genre: Fiction, Read: False
+Title: Crime and Punishment, Author: Fyodor Dostoevsky, Year: 1866, Genre: Crime, Read: False
+Title: Brave New World, Author: Aldous Huxley, Year: 1932, Genre: Science Fiction, Read: False
+Title: Anna Karenina, Author: Leo Tolstoy, Year: 1877, Genre: Romance, Read: False
+Title: The Book Thief, Author: Markus Zusak, Year: 2005, Genre: Historical Fiction, Read: False
+Title: Wuthering Heights, Author: Emily Brontë, Year: 1847, Genre: Romance, Read: False
+Title: Fahrenheit 451, Author: Ray Bradbury, Year: 1953, Genre: Dystopian, Read: False
+Title: Les Misérables, Author: Victor Hugo, Year: 1862, Genre: Historical Fiction, Read: False
+Title: Jane Eyre, Author: Charlotte Brontë, Year: 1847, Genre: Romance, Read: False
+Title: The Chronicles of Narnia, Author: C.S. Lewis, Year: 1956, Genre: Fantasy, Read: False
+Title: Dracula, Author: Bram Stoker, Year: 1897, Genre: Horror, Read: False
+Title: The Kite Runner, Author: Khaled Hosseini, Year: 2003, Genre: Drama, Read: False
+Title: Frankenstein, Author: Mary Shelley, Year: 1818, Genre: Horror, Read: False
+Title: The Da Vinci Code, Author: Dan Brown, Year: 2003, Genre: Thriller, Read: False
+Title: The Shining, Author: Stephen King, Year: 1977, Genre: Horror, Read: False
+Title: The Road, Author: Cormac McCarthy, Year: 2006, Genre: Post-Apocalyptic, Read: False
+Title: A Tale of Two Cities, Author: Charles Dickens, Year: 1859, Genre: Historical Fiction, Read: False
+Title: Gone with the Wind, Author: Margaret Mitchell, Year: 1936, Genre: Historical Fiction, Read: False
+Title: The Hunger Games, Author: Suzanne Collins, Year: 2008, Genre: Dystopian, Read: False
+Title: Harry Potter and the Sorcerer's Stone, Author: J.K. Rowling, Year: 1997, Genre: Fantasy, Read: False
+Title: Life of Pi, Author: Yann Martel, Year: 2001, Genre: Adventure, Read: False
+Title: The Secret Garden, Author: Frances Hodgson Burnett, Year: 1911, Genre: Children's Fiction, Read: False
+Title: A Thousand Splendid Suns, Author: Khaled Hosseini, Year: 2007, Genre: Drama, Read: False
+Title: The Picture of Dorian Gray, Author: Oscar Wilde, Year: 1890, Genre: Fiction, Read: False
+Title: Beloved, Author: Toni Morrison, Year: 1987, Genre: Historical Fiction, Read: False
+Title: Slaughterhouse-Five, Author: Kurt Vonnegut, Year: 1969, Genre: Science Fiction, Read: False
+Title: The Handmaid's Tale, Author: Margaret Atwood, Year: 1985, Genre: Dystopian, Read: False
+Title: The Adventures of Sherlock Holmes, Author: Arthur Conan Doyle, Year: 1892, Genre: Mystery, Read: False
+Title: Catch-22, Author: Joseph Heller, Year: 1961, Genre: Satire, Read: False
+Title: Animal Farm, Author: George Orwell, Year: 1945, Genre: Political Satire, Read: False
+Title: The Stand, Author: Stephen King, Year: 1978, Genre: Horror, Read: False
+Title: Dune, Author: Frank Herbert, Year: 1965, Genre: Science Fiction, Read: False
+Title: It, Author: Stephen King, Year: 1986, Genre: Horror, Read: False
+Title: The Girl with the Dragon Tattoo, Author: Stieg Larsson, Year: 2005, Genre: Crime, Read: False
+Title: Shogun, Author: James Clavell, Year: 1975, Genre: Historical Fiction, Read: False
+Title: The Color Purple, Author: Alice Walker, Year: 1982, Genre: Historical Fiction, Read: False
+Title: Memoirs of a Geisha, Author: Arthur Golden, Year: 1997, Genre: Historical Fiction, Read: False
+Title: The Hitchhiker's Guide to the Galaxy, Author: Douglas Adams, Year: 1979, Genre: Science Fiction, Read: False
+Title: Percy Jackson & The Olympians, Author: Rick Riordan, Year: 2005, Genre: Fantasy, Read: False
+Title: The Maze Runner, Author: James Dashner, Year: 2009, Genre: Dystopian, Read: False
+Title: Middlemarch, Author: George Eliot, Year: 1871, Genre: Fiction, Read: False
+Title: Cloud Atlas, Author: David Mitchell, Year: 2004, Genre: Science Fiction, Read: False
+Title: Sapiens, Author: Yuval Noah Harari, Year: 2014, Genre: History, Read: True
